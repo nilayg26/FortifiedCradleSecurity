@@ -1,7 +1,7 @@
 
 -----
 
-# Fortified Cradle: A Java Simulation of Outsourced ABE
+# Fortified Cradle: A Java Simulation of ABE
 
 `Fortified Cradle` is a conceptual Java simulation of a multi-authority **Attribute-Based Encryption (ABE)** scheme featuring an **outsourced decryption** mechanism. This project demonstrates how computationally intensive cryptographic operations can be offloaded from a resource-constrained end-user to a powerful proxy server, making advanced security practical for IoT and mobile environments.
 
