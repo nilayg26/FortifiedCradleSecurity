@@ -144,4 +144,4 @@ This results in a massive performance gain (over **2800x** for 50 attributes) fo
 
 -----
 
-## 📄 This is a collaborative project.
+## 📄 This is a collaborative project by [nilayg26](https://github.com/nilayg26) [guneetk](https://github.com/guneetk) [kaustubh3103](https://github.com/kaustubh3103)
